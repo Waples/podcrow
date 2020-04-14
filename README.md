@@ -2,6 +2,9 @@
 
 _Download your podcasts and maintain history via your terminal (where you are and where you should stay)._
 
+### Notice
+honorable mention to `podfox` for the inspiration.
+
 ### Usage:
 todo (but just run `python podcrow.py -h`
 
