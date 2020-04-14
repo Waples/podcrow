@@ -3,7 +3,7 @@
 Podcrow
 Pythonic Podcasts!
 
-developer: Florian Benscheidt
+developer: Florian B.
 """
 
 import argparse
