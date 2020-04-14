@@ -6,7 +6,7 @@ _Download your podcasts and maintain history via your terminal (where you are an
 honorable mention to `podfox` for the inspiration.
 
 ### Usage:
-todo (but just run `python podcrow.py -h`
+I still need to package this, but in the meantime, just run `python podcrow <OPTS>`.
 
 ```
 usage: podcrow.py [-h] [-a AMOUNT] [-i IMPORT_POD_FEED] [-l] [-s SHORT]
